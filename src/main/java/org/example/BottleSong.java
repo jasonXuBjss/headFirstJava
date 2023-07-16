@@ -1,6 +1,8 @@
 package org.example;
 
+
 public class BottleSong {
+
     public static void main(String[] args) {
         int bottleNum = 10;
         String word = "bottles";
