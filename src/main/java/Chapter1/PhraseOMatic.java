@@ -1,4 +1,4 @@
-package org.example;
+package Chapter1;
 
 public class PhraseOMatic {
     public static void main(String[] args) {
