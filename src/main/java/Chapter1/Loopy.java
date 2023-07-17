@@ -1,4 +1,4 @@
-package org.example;
+package Chapter1;
 
 public class Loopy{
     public static void main(String[] args) {
